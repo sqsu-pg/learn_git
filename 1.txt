@@ -7,3 +7,5 @@ git tracks changes
 creating a new branch is quick and simple
 
 on master : test merg conflect
+
+on feature2 : test merge is hard
