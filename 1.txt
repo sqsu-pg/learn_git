@@ -9,3 +9,5 @@ creating a new branch is quick and simple
 on master : test merg conflect
 
 test merg conflect is hard
+
+test no fast merg
