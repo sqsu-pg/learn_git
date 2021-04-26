@@ -8,4 +8,4 @@ creating a new branch is quick and simple
 
 on master : test merg conflect
 
-on master : test merg conflect is hard
+test merg conflect is hard
