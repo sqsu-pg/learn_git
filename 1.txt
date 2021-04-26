@@ -3,3 +3,6 @@
 git has a mutable index called stage
 git tracks changes
 3
+
+creating a new branch is quick and simple
+ver2
